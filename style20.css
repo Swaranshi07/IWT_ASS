@@ -1,5 +1,5 @@
 nav{
-	background-image:url("images/bgs/pool_table.png");
+	background-image:url("pool_table.png");
 }
 nav > ul{
 	display:flex;
@@ -27,44 +27,44 @@ nav > ul > a > li > span:hover{
 	margin:15px;
 }
 .c1{
-    background-image:url("images/bgs/pool_table.png");
+    background-image:url("pool_table.png");
     display:flex;
     justify-content:center;
     align-items:center;
     height:100vh;
 }
 .c2{
-	background-image:url("images/bgs/pool_table.png");
+	background-image:url("pool_table.png");
     display:flex;
     justify-content:center;
     align-items:center;
 }
 .c3{
-    background-image:url("images/bgs/pool_table.png");
+    background-image:url("pool_table.png");
     display:flex;
     justify-content:center;
     align-items:center;
 }
 .c4{
-    background-image:url("images/bgs/pool_table.png");
+    background-image:url("pool_table.png");
     display:flex;
     justify-content:center;
     align-items:center;
 }
 .c5{
-    background-image:url("images/bgs/pool_table.png");
+    background-image:url("pool_table.png");
     display:flex;
     justify-content:center;
     align-items:center;
 }
 .c6{
-    background-image:url("images/bgs/pool_table.png");
+    background-image:url("pool_table.png");
     display:flex;
     justify-content:center;
     align-items:center;
 }
 .c7{
-    background-image:url("images/bgs/pool_table.png");
+    background-image:url("pool_table.png");
     display:flex;
     justify-content:center;
     align-items:center;
@@ -72,7 +72,7 @@ nav > ul > a > li > span:hover{
 	font-size:20px;
 }
 .c8{
-    background-image:url("images/bgs/pool_table.png");
+    background-image:url("pool_table.png");
     display:flex;
     justify-content:center;
     align-items:center;
