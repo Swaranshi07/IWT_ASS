@@ -1,6 +1,6 @@
 body{
 	background-color:rgba(198,24,30,0.5);
-	background-image:radial-gradient(rgba(252,250,24,0.3),rgba(52,222,24,0.5),rgba(25,25,150,0.5)),url("images/30.jpg");
+	background-image:radial-gradient(rgba(252,250,24,0.3),rgba(52,222,24,0.5),rgba(25,25,150,0.5)),url("30.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-position:bottom;
